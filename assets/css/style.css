@@ -26,10 +26,6 @@ body {
   color: #fff;
 }
 
-html {
-  font-size: 62.5%;
-  overflow-x: hidden;
-}
 html::-webkit-scrollbar {
   width: 0.8rem;
 }
